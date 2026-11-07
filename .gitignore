@@ -10,8 +10,6 @@ wheels/
 # Virtual environments
 # Environment variables and secrets
 .env
-.env.*
-!.env.example
 
 # Virtual environment
 .venv/
